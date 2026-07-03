@@ -10,21 +10,26 @@ Maximum character limit enforcement (200 characters)
 Warning message when limit is reached
 Clean and responsive UI design
 Simple and user-friendly interface
+
+
 🛠️ Technologies Used
 HTML
 CSS
 JavaScript
+
+
 🎯 Learning Outcome
 
-This project helps improve understanding of:
+       This project helps improve understanding of:
 
-DOM manipulation
-Event handling (input event)
-Form control and validation logic
-Real-time UI updates using JavaScript
-🚀 How It Works
-User types inside the text area
-JavaScript listens to input events
-Character count updates instantly
-Input is restricted to 200 characters
-Warning message appears when limit is reached
+         * DOM manipulation
+         * Event handling (input event)
+         * Form control and validation logic
+         * Real-time UI updates using JavaScript
+ 
+ 🚀 How It Works
+          * User types inside the text area
+          * JavaScript listens to input events
+          * Character count updates instantly
+          * Input is restricted to 200 characters
+          * Warning message appears when limit is reached
