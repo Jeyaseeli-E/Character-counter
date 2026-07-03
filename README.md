@@ -4,6 +4,7 @@ This project is a simple and interactive Character Counter Web Application built
 The application dynamically updates the character count as the user types, showing both the number of characters entered and the remaining allowed limit. It also prevents users from exceeding the maximum character limit and displays a warning message when the limit is reached.
 
 ✨ Features
+
 Real-time character counting
 Displays format like 150/200 characters
 Maximum character limit enforcement (200 characters)
@@ -13,6 +14,7 @@ Simple and user-friendly interface
 
 
 🛠️ Technologies Used
+
 HTML
 CSS
 JavaScript
@@ -28,6 +30,7 @@ JavaScript
          * Real-time UI updates using JavaScript
  
  🚀 How It Works
+ 
           * User types inside the text area
           * JavaScript listens to input events
           * Character count updates instantly
